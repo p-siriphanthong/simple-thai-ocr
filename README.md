@@ -4,7 +4,7 @@ Simple Thai Optical Character Recognition
 ### Overview
 1. Segmentation Rows - Use Horizontal Projections and Combine Rows Algorithms
 2. Segmentation Characters - Use Blob Coloring Algorithm
-3. Sorting Characters - Use Consonant Line Algorithms
+3. Sorting Characters - Use Consonant Line and Midpoint of Characters
 4. Recognition Characters - Use Template Matching and Sorting Alphabets Algorithms
 
 ### Errors
